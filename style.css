@@ -1,9 +1,9 @@
     body {
       font-family: Arial, sans-serif;
-      background: gainsboro;
+      background: rgb(220, 220, 220);
       text-align: center;
       margin-top: 50px;
     }
     h1 {
-      color: black;
+      color: rgb(205, 177, 177);
     }
